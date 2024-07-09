@@ -7,3 +7,4 @@ sym-lib-table
 *-cache.lib
 *.kicad_prl
 *.xml
+fabrication-toolkit-options.json
