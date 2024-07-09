@@ -26,7 +26,7 @@ The BudgetCAN G4 Hardware is designed to implement the full CAN potential of the
 
 ## Firmware
 Firmware is available for this hardware in the budgetcan firmware repository.  This firmware is based on the gs_usb driver and currently is fully supported in Linux and will work in Windows using the same drivers that have been developed for gs_usb.
-* https://github.com/ryedwards/budgetcan_fw
+* https://github.com/ryedwards/budgetcan-fw
 
 
 You can also use the included STM32CubeMX .ioc file to generate your own firmware.  
